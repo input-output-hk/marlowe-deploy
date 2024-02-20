@@ -1,0 +1,7 @@
+[shlevy]
+admin = true
+keys = [
+  "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID/fJqgjwPG7b5SRPtCovFmtjmAksUSNg3xHWyqBM4Cs shlevy@shlevy-laptop",
+  "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEV4YLEr/vOvWzkp4wTZUvEiXKoxSIU1YGrSvOZYZyN6 shlevy@avp",
+]
+name = "Shea Levy"
